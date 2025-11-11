@@ -31,7 +31,7 @@ Example usage in README:
 `![Client Connectivity](images/client-connectivity.png)`
 
 ## 📂 Files Included
-- `Wireless-Router-Clients.pkt` — Packet Tracer lab file
+- `Configure a Wireless Router and Clients.pkt` — Packet Tracer lab file
 - `/images` — screenshots of configuration and testing
 
 ## 🧠 Skills Demonstrated
