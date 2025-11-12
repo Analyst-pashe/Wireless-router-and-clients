@@ -10,8 +10,6 @@ Packet Tracer lab to configure a wireless router and connect clients
 
 ## 🧰 Tools Used
 - Cisco Packet Tracer  
-- Wireless router and client devices (PCs, laptops)  
-- Basic IP addressing and DHCP configuration knowledge  
 
 ## ⚙️ Steps / Lab Procedure
 1. **Connect the Devices:**  
@@ -32,11 +30,10 @@ Packet Tracer lab to configure a wireless router and connect clients
 - DHCP assignment worked correctly, and all devices could communicate with each other.
 - Wireless network security settings ensured safe access.
 
-## 🖼️ Screenshots
-- Add screenshots to an `/images` folder in your repo.  
-Example usage in README:  
-`![Router Configuration](images/router-config.png)`  
-`![Client Connectivity](images/client-connectivity.png)`
+## 🖼️ Screenshots    
+`![Connect the devices](Images/router-config.png)`  
+`![Configure the Wireless Router](Images/client-connectivity.png)`
+`![Configure IP Addressing and Test Connectivity](Images/client-connectivity.png)`
 
 ## 📂 Files Included
 - `Configure a Wireless Router and Clients.pkt` — Packet Tracer lab file
