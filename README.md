@@ -43,13 +43,13 @@ This Packet Tracer lab demonstrates how to configure a wireless router and conne
 ## 🖼️ Screenshots
 
 - **Connected Devices**  
-  ![Connected Devices](Images/Connect-the-devices.png)
+  ![Connected Devices](images/Connect-the-devices.png)
 
 - **Wireless Router Configuration**  
-  ![Wireless Router Configuration](Images/Configure-the-Wireless-Router.png)
+  ![Wireless Router Configuration](images/Configure-the-wireless-router.png)
 
 - **IP Addressing and Connectivity Test**  
-  ![Connectivity Test](Images/Configure-IP-Addressing-and-Test-Connectivity.png)
+  ![Connectivity Test](images/Configure-IP-addressing-and-test-connectivity.png)
 
 ---
 
