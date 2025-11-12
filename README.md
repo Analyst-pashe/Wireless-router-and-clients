@@ -54,7 +54,7 @@ This Packet Tracer lab demonstrates how to configure a wireless router and conne
 ---
 
 ## 📂 Files Included
-- [Configure-a-Wireless-Router-and-Clients.pka](https://github.com/Analyst-pashe/Wireless-router-and-clients/raw/main/Configure%20a%20Wireless%20Router%20and%20Clients.pka) — Packet Tracer lab file  
+- [Configure-a-Wireless-Router-and-Clients.pka](https://github.com/Analyst-pashe/Wireless-router-and-clients/blob/main/Configure%20a%20Wireless%20Router%20and%20Client.pka) — Packet Tracer lab file  
 - `/images` — screenshots of configuration and testing  
 
 ---
