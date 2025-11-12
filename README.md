@@ -4,19 +4,19 @@ This Packet Tracer lab demonstrates how to configure a wireless router and conne
 
 ---
 
-## 🎯 Objectives
+## Objectives
 - **Part 1:** Connect the devices  
 - **Part 2:** Configure the wireless router  
 - **Part 3:** Configure IP addressing and test connectivity  
 
 ---
 
-## 🧰 Tools Used
+## Tools Used
 - Cisco Packet Tracer  
 
 ---
 
-## ⚙️ Steps / Lab Procedure
+## Steps / Lab Procedure
 
 1. **Connect the Devices**  
    - Added a wireless router and connected client devices (PCs, laptops).  
@@ -33,14 +33,14 @@ This Packet Tracer lab demonstrates how to configure a wireless router and conne
 
 ---
 
-## 📈 Results
+## Results
 - All client devices successfully connected to the wireless network.  
 - DHCP assignment worked correctly, and all devices communicated seamlessly.  
 - Wireless security configuration ensured safe access to the network.  
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 
 - **Connected Devices**  
   ![Connected Devices](images/Connect-the-devices.png)
@@ -53,13 +53,13 @@ This Packet Tracer lab demonstrates how to configure a wireless router and conne
 
 ---
 
-## 📂 Files Included
+## Files Included
 - [Configure-a-Wireless-Router-and-Clients.pka](https://github.com/Analyst-pashe/Wireless-router-and-clients/blob/main/Configure%20a%20Wireless%20Router%20and%20Client.pka) — Packet Tracer lab file  
 - `/images` — screenshots of configuration and testing  
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 - Wireless router setup and configuration  
 - Connecting and managing multiple wireless clients  
 - DHCP configuration and IP addressing  
@@ -67,7 +67,7 @@ This Packet Tracer lab demonstrates how to configure a wireless router and conne
 
 ---
 
-## 💡 Lessons Learned
+## Lessons Learned
 - Gained practical experience configuring wireless routers and DHCP.  
 - Understood how to test and verify network connectivity between devices.  
 - Learned how to secure wireless connections using SSID and encryption settings.
