@@ -31,13 +31,13 @@ Packet Tracer lab to configure a wireless router and connect clients
 - Wireless network security settings ensured safe access.
 
 ## 🖼️ Screenshots    
-`![Connect the devices](Images/router-config.png)`  
-`![Configure the Wireless Router](Images/client-connectivity.png)`
-`![Configure IP Addressing and Test Connectivity](Images/client-connectivity.png)`
+- Connect the devices (`/Images/Connect the devices.png`)  
+- Configure the Wireless Router (`/Images/Configur the Wireless Router.png`)
+- Configure IP Addressing and Test Connectivity(`/Images/Configure IP Addressing and Test Connectivity.png`)
 
 ## 📂 Files Included
 - `Configure a Wireless Router and Clients.pkt` — Packet Tracer lab file
-- `/images` — screenshots of configuration and testing
+- `/Images` — screenshots of configuration and testing
 
 ## 🧠 Skills Demonstrated
 - Wireless router configuration
